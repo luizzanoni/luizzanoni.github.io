@@ -11,19 +11,14 @@ redirect_from:
 
 Educação:
 ======
-* Informatica, DIGICENTER, 2012
-* Técnico em Redes, SENAI/SC, 2015
+* Informatica, DCL Xaxim Informática, 2015
 * Cursando bacharel em Ciência da Computação, Universidade Federal Fronteira Sul
 
 
 Experiencias Profissionais:
 ======
-* 1º semestre de 2016: Estagiário na ProSystem.
-  * Função: Auxilio na manutenção e instalação de sistemas de segunrança residencial.
-
-
-* Atualmente: Conferente de Fluxo na Portal.
-  * Função: Realizar controle e pesagem durante o fluxo de veículos.
+* Atualmente: Auxiliar Administrativo.
+  * Função: Lançamento de notas.
   
 Habilidades:
 ======
@@ -31,5 +26,5 @@ Habilidades:
 * Linguagens de Programação:
   * Python
   * HTML
-* Inglês Intermediário.
+* Inglês Completo.
 

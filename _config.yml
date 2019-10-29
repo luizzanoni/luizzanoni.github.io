@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Lucas Bitello Da Silva"
+title                    : "Luiz Gustavo Zanoni"
 title_separator          : "-"
-name                     : &name "Lucas Bitello da Silva"
+name                     : &name "Luiz Gustavo Zanoni"
 description              : &description "Acadêmico de Ciência da Computação"
-url                      : https://lucasbitello.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://LuizZanoni.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lucasbitello.github.io"
+repository               : "LuizZanoni.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['Lucas Bitello da Silva', 'Lucas Bitello da Silva', 'facebook.com.br/lucasbitello', 'message']
+  allowedFields          : ['Luiz Gustavo Zanoni', 'Luiz Gustavo Zanoni', 'facebook.com.br/lucasbitello', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lucas Bitello da Silva"
-  avatar           : "lucas.jpg"
+  name             : "Luiz Gustavo Zanoni"
+  avatar           : "luiz.jpg"
   bio              : "Acadêmico de ciência da computação na UFFS, expert em tomar café"
-  location         : "Guatambu / Santa Catarina - BR"
+  location         : "Xaxim / Santa Catarina - BR"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -94,17 +94,17 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "lucasbitellods"
+  facebook         : "luizgustavo.zanoni"
   foursquare       :
-  github           : "LucasBitello"
+  github           : ""
   google_plus      :
   keybase          :
-  instagram        : "lucasbitello"
+  instagram        : "luizzanoni"
   impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : 
-  spotify          : "https://open.spotify.com/user/gy79076qpgy5mcubglexmun28"
+  spotify          : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
