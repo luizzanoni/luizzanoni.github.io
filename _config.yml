@@ -11,9 +11,9 @@ title                    : "Luiz Gustavo Zanoni"
 title_separator          : "-"
 name                     : &name "Luiz Gustavo Zanoni"
 description              : &description "Acadêmico de Ciência da Computação"
-url                      : https://LuizZanoni.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://luizzanoni.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LuizZanoni.github.io"
+repository               : "luizzanoni.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,10 +96,10 @@ author:
   flickr           :
   facebook         : "luizgustavo.zanoni"
   foursquare       :
-  github           : ""
+  github           : 
   google_plus      :
   keybase          :
-  instagram        : "luizzanoni"
+  instagram        : "luiz_gustavo_zanoni"
   impactstory      : 
   lastfm           :
   linkedin         :
