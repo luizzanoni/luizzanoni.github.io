@@ -29,9 +29,9 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : # "dark" (default), "dark"
 staticman:
-  allowedFields          : ['Luiz Gustavo Zanoni', 'Luiz Gustavo Zanoni', 'facebook.com.br/lucasbitello', 'message']
+  allowedFields          : ['Luiz Gustavo Zanoni', 'Luiz Gustavo Zanoni', 'facebook.com/luizgustavo.zanoni', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -83,7 +83,7 @@ author:
   name             : "Luiz Gustavo Zanoni"
   avatar           : "luiz.jpg"
   bio              : "Acadêmico de ciência da computação na UFFS, expert em tomar chimarrão"
-  location         : "Xaxim / Santa Catarina - BR"
+  location         : "Chapecó / Santa Catarina - BR"
   employer         :
   pubmed           : 
   googlescholar    : 
